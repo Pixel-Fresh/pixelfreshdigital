@@ -1,0 +1,1394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-05-28T13:04:20-04:00\n"
+"POT-Creation-Date: 2019-05-28T13:04:20-04:00\n"
+
+#: request-a-quote/forms/request-a-quote.php:36
+msgid "Service"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:39
+msgid "Service field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:60
+msgid "First Name"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:63
+msgid "First Name field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:82
+msgid "Last Name"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:85
+msgid "Last Name field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:104
+msgid "Address"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:107
+msgid "Address field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:126
+msgid "City"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:129
+msgid "City field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:148
+msgid "State"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:151
+msgid "State field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:171
+msgid "Zipcode"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:174
+msgid "Zipcode field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:193
+msgid "Contact Preference"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:196
+msgid "Contact Preference field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:220
+msgid "Email"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:223
+msgid "Email field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:242
+msgid "Phone"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:245
+msgid "Phone field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:264
+msgid "Callback Time"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:267
+msgid "Callback Time field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:287
+msgid "Budget"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:290
+msgid "Budget field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:309
+msgid "Additional Details"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:312
+msgid "Additional Details field is required"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:333
+msgid "Max number of files: %s"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:336
+#: request-a-quote/forms/request-a-quote.php:343
+msgid "Max file size: %s"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:346
+msgid "File extensions allowed: %s"
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:350
+msgid "Attach related files to the quote."
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:386
+msgid "Please enter the characters with black color in the image above."
+msgstr ""
+
+#: request-a-quote/forms/request-a-quote.php:389
+msgid "Security Code field is required"
+msgstr ""
+
+#: request-a-quote/includes/admin/class-emd-list-table.php:112
+msgid "Copy"
+msgstr ""
+
+#: request-a-quote/includes/admin/getting-started.php:174
+msgid "Welcome to Request a quote Community %s"
+msgstr ""
+
+#: request-a-quote/includes/admin/getting-started.php:178
+msgid "Request a quote provides an easy to use request a quote form, stores and displays quote requests from customers. It also has fully customizable notification system for customers and admin."
+msgstr ""
+
+#: request-a-quote/includes/admin/getting-started.php:182
+msgid "Getting Started"
+msgstr ""
+
+#: request-a-quote/includes/admin/getting-started.php:183
+msgid "Release Notes"
+msgstr ""
+
+#: request-a-quote/includes/admin/getting-started.php:184
+msgid "Resources"
+msgstr ""
+
+#: request-a-quote/includes/admin/getting-started.php:185
+msgid "Features"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:21
+msgid "Request a quote provides an easy to use request a quote form, stores and displays quote requests from customers."
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:22
+msgid "The below are the definitions of entities, attributes, and terms included in Request a quote."
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:26
+msgid "Quotes"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:29
+msgid "A sales quote allows a prospective buyer to see what costs would be involved for the work they would like to have done."
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:29
+msgid "Attributes"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:31
+msgid "Closed"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:32
+msgid "Check when you need to close the quote request. Closed is filterable in the admin area. Closed does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:36
+msgid " First Name is a required field. First Name is filterable in the admin area. First Name does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:40
+msgid " Last Name is a required field. Last Name is filterable in the admin area. Last Name does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:44
+msgid " Address does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:48
+msgid " City is filterable in the admin area. City does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:52
+msgid " Zipcode is filterable in the admin area. Zipcode does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:56
+msgid " State is filterable in the admin area. State does not have a default value. State is displayed as a dropdown and has predefined values of: ak, al, ar, az, ca, co, ct, dc, de, fl, ga, hi, ia, id, il, in, ks, ky, la, ma, md, me, mi, mn, mo, ms, mt, nc, nd, ne, nh, nj, nm, nv, ny, oh, ok, or, pa, ri, sc, sd, tn, tx, ut, va, vt, wa, wi, wv, wy."
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:60
+msgid " Email is a required field. Email is filterable in the admin area. Email does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:64
+msgid " Phone is filterable in the admin area. Phone does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:68
+msgid " Contact Preference is a required field. Contact Preference is filterable in the admin area. Contact Preference has a default value of <b>'email'</b>."
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:72
+msgid " Callback Time is filterable in the admin area. Callback Time does not have a default value. Callback Time is displayed as a dropdown and has predefined values of: em, lm, ea, la, ee, le."
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:76
+msgid " Budget is filterable in the admin area. Budget does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:80
+msgid " Additional Details does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:83
+msgid "ID"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:84
+msgid "Unique identifier for a quote request. Being a unique identifier, it uniquely distinguishes each instance of Quote entity. ID does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:87
+msgid "Attachments"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:88
+msgid "Attach related files to the quote. Attachments does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:91
+msgid "Form Name"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:92
+msgid " Form Name is filterable in the admin area. Form Name has a default value of <b>admin</b>."
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:95
+msgid "Form Submitted By"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:96
+msgid " Form Submitted By is filterable in the admin area. Form Submitted By does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:99
+msgid "Form Submitted IP"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:100
+msgid " Form Submitted IP is filterable in the admin area. Form Submitted IP does not have a default value. "
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:101
+msgid "Taxonomies"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:105
+msgid " Service accepts multiple values like tags"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:105
+msgid "Service does not have a default value"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:105
+msgid "The following are the preset values for <b>Service:</b>"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:105
+msgid "Service A"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:105
+msgid " Service B"
+msgstr ""
+
+#: request-a-quote/includes/admin/glossary.php:105
+msgid "Service C"
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:28
+msgid "Keeping your software updated is the best and easiest thing you can do to make sure your site stays up and running. We regularly update our products to fix defects, add new features or ensure compatibility with the latest releases of WordPress.</p><p>Please enter and activate your <b>license keys</b>."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:81
+msgid "Deactivate License"
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:85
+msgid "To receive updates, please activate your license key."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:87
+msgid "Activate License"
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:93
+msgid "To receive updates, please enter your valid license key."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:108
+msgid "Your license key is valid and never expires."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:113
+msgid "Your license key expires soon! It expires on %s. <a href=\"%s\" target=\"_blank\">Renew your license key</a>."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:120
+msgid "Your license key expired on %s. <a href=\"%s\" target=\"_blank\">Renew your license key</a>."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:129
+msgid "Your license key is valid and expires on %s."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:249
+#: request-a-quote/includes/admin/license-functions.php:339
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:261
+msgid "Your license key expired on %s. Please <a href=\"%s\" target=\"_blank\">renew your license key</a>."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:267
+msgid "Your license key has been disabled. Please <a href=\"%s\" target=\"_blank\">contact support</a> for more information."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:273
+msgid "Invalid license. Please <a href=\"%s\" target=\"     _blank\">visit your account page</a> and verify it."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:280
+msgid "Your license is not active for this URL. Please <a href=\"%s\" target=\"_blank\">visit your account page</a> to manage your license key URLs."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:285
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:289
+msgid "Your license key has reached its activation limit. <a href=\"%s\">View possible upgrades</a> now."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:292
+msgid "There was an error with this license key: %s. Please <a href=\"%s\">contact our support team</a>."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:408
+msgid "Your %s license has expired. <a href=\"%s\" target=\"_blank\">Renew your license</a> to protect your investment and keep your software functioning at all times."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:411
+msgid "Please notify the site administrator to activate expired %s license."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:416
+msgid "Thanks for installing %s. Please <a href=\"%s\">activate your license key</a> before start using."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:419
+msgid "Please notify the site administrator to activate %s license."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:424
+msgid "You have invalid or expired license for %s. Please <a href=\"%s\">go to licenses page</a> to correct this issue."
+msgstr ""
+
+#: request-a-quote/includes/admin/license-functions.php:427
+msgid "Please notify the site administrator to activate expired or invalid %s license."
+msgstr ""
+
+#: request-a-quote/includes/admin/shortcode-list-functions.php:20
+msgid "Visual ShortCode Builder"
+msgstr ""
+
+#: request-a-quote/includes/admin/shortcode-list-functions.php:25
+#: request-a-quote/includes/admin/shortcode-list-functions.php:30
+msgid "The following shortcodes are provided by default. To use the shortcode, click copy button and paste it in a page."
+msgstr ""
+
+#: request-a-quote/includes/admin/shortcode-list-functions.php:26
+msgid "To create advanced shortcodes click Create New button."
+msgstr ""
+
+#: request-a-quote/includes/admin/shortcode-list-functions.php:29
+msgid "ShortCodes"
+msgstr ""
+
+#: request-a-quote/includes/admin/shortcode-list-functions.php:31
+msgid "To learn more on how to create new shortcodes with filters go to the %s documentation.%s"
+msgstr ""
+
+#: request-a-quote/includes/admin/shortcode-list-functions.php:32
+msgid "Create advanced shortcodes easily with Visual Shortcode builder.%s Upgrade Now!%s"
+msgstr ""
+
+#: request-a-quote/includes/admin/shortcode-list-functions.php:69
+msgid "Error: Please try again."
+msgstr ""
+
+#: request-a-quote/includes/admin/shortcode-list-functions.php:88
+msgid "Form"
+msgstr ""
+
+#: request-a-quote/includes/admin/shortcode-list-functions.php:93
+#: request-a-quote/includes/admin/shortcode-list-functions.php:98
+msgid "View"
+msgstr ""
+
+#: request-a-quote/includes/admin/store-functions.php:24
+msgid "Browse All"
+msgstr ""
+
+#: request-a-quote/includes/admin/store-functions.php:26
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: request-a-quote/includes/admin/store-functions.php:50
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr ""
+
+#: request-a-quote/includes/admin/store-functions.php:70
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: request-a-quote/includes/admin/store-functions.php:70
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: request-a-quote/includes/admin/store-functions.php:95
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:271
+msgid "Quote Receipt"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:287
+msgid "Quote Email"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:395
+msgid "Request a quote"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:400
+msgid "Contact List"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:413
+msgid "Check when you need to close the quote request."
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:479
+#: request-a-quote/includes/class-install-deactivate.php:592
+msgid "Please Select"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:480
+msgid "AK"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:481
+msgid "AL"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:482
+msgid "AR"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:483
+msgid "AZ"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:484
+msgid "CA"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:485
+msgid "CO"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:486
+msgid "CT"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:487
+msgid "DC"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:488
+msgid "DE"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:489
+msgid "FL"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:490
+msgid "GA"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:491
+msgid "HI"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:492
+msgid "IA"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:494
+msgid "IL"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:495
+msgid "IN"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:496
+msgid "KS"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:497
+msgid "KY"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:498
+msgid "LA"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:499
+msgid "MA"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:500
+msgid "MD"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:501
+msgid "ME"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:502
+msgid "MI"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:503
+msgid "MN"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:504
+msgid "MO"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:505
+msgid "MS"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:506
+msgid "MT"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:507
+msgid "NC"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:508
+msgid "ND"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:509
+msgid "NE"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:510
+msgid "NH"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:511
+msgid "NJ"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:512
+msgid "NM"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:513
+msgid "NV"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:514
+msgid "NY"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:515
+msgid "OH"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:516
+msgid "OK"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:517
+msgid "OR"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:518
+msgid "PA"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:519
+msgid "RI"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:520
+msgid "SC"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:521
+msgid "SD"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:522
+msgid "TN"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:523
+msgid "TX"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:524
+msgid "UT"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:525
+msgid "VA"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:526
+msgid "VT"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:527
+msgid "WA"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:528
+msgid "WI"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:529
+msgid "WV"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:530
+msgid "WY"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:565
+msgid "Telephone"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:593
+msgid "5 to 8am"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:594
+msgid "11am to 12pm"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:595
+msgid "1 to 3pm"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:596
+msgid "4 to 5pm"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:597
+msgid "5 to 7 pm"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:598
+msgid "9pm to 4am"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:630
+msgid "Unique identifier for a quote request."
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:788
+msgid "Services"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:803
+msgid "Service B"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:864
+msgid "New To Request a Quote? Review the documentation!"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:864
+msgid "&#187;"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:864
+msgid "Dismiss"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:870
+msgid "Welcome to Request a quote"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:871
+msgid "Setup Request a quote Pages"
+msgstr ""
+
+#: request-a-quote/includes/class-install-deactivate.php:871
+msgid "Skip setup"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:85
+msgid "Featured Image"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:260
+msgid "<p>A sales quote allows a prospective buyer to see what costs would be involved for the work they would like to have done. Many businesses provide services that cannot have an upfront price, as the costs involved can vary. This can be due to the materials that would be used (which can differ depending on the individual needs of the customer), and the manpower that would be necessary. Therefore, it is common practice for these companies to provide the potential customer with a quote (or estimate) of how much it should cost. </p>\n<p>This quotation will be made by the company using the information that the potential customer provides, regarding the relevant elements that may affect the price. A quote can help the prospective buyer when deciding which company to use, and which services they are looking for.</p>"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:262
+msgid "<p>When considering the information provided on a quote, not only the price should be important; it is also advisable to look at quality and professionalism within a company. This is why it is common practice for most companies to provide prospective customers with portfolios and examples of previous work. This can also help the potential customer when deciding which company to choose for the work they need to have done.</p>"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:263
+msgid "<p>Detailed, well-considered quotes win work. Knowing how to write winning quotes is an important part of growing your business. But getting your quotes right can be a big challenge. You want to win the job with a competitive price but you need to make sure your costs are covered and you make a decent profit.</p>"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:269
+msgid "Sales Quote Definition"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:274
+msgid "Criteria for selection"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:279
+msgid "Preparing quotes"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:294
+#: request-a-quote/includes/entities/class-emd-quote.php:415
+msgid "Quote"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:295
+msgid "Add New"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:296
+msgid "Add New Quote"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:297
+msgid "Edit Quote"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:298
+msgid "New Quote"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:299
+msgid "All Quotes"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:300
+msgid "View Quote"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:301
+msgid "Search Quotes"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:302
+msgid "No Quotes Found"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:303
+msgid "No Quotes Found In Trash"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:341
+msgid "Search Services"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:342
+msgid "Popular Services"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:343
+msgid "All"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:346
+msgid "Edit Service"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:347
+msgid "Update Service"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:348
+msgid "Add New Service"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:349
+msgid "Add New Service Name"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:350
+msgid "Seperate Services with commas"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:351
+msgid "Add or Remove Services"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:352
+msgid "Choose from the most used Services"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:420
+msgid "Quote Info"
+msgstr ""
+
+#: request-a-quote/includes/entities/class-emd-quote.php:488
+msgid "Operations"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:113
+msgid "Service is required!"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:141
+msgid "First Name is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:169
+msgid "Last Name is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:197
+msgid "Address is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:225
+msgid "City is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:307
+msgid "State is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:335
+msgid "Zipcode is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:361
+msgid "Contact Preference is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:389
+msgid "Email: Please enter a valid email address"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:396
+msgid "Email is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:424
+msgid "Phone is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:463
+msgid "Callback Time is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:489
+msgid "Budget: Please enter a valid number"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:496
+msgid "Budget is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:518
+msgid "Additional Details is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:591
+msgid " is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:602
+msgid "Please enter the characters with black color."
+msgstr ""
+
+#: request-a-quote/includes/forms.php:604
+msgid "Code"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:609
+msgid "Captcha is required"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:613
+msgid "Characters from captcha image entered incorrectly!"
+msgstr ""
+
+#: request-a-quote/includes/forms.php:617
+msgid "Send a request"
+msgstr ""
+
+#: request-a-quote/includes/login-register-functions.php:72
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:62
+msgid "Please help us improve Request a quote"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:64
+msgid "Allow eMDPlugins to collect your usage of Request a quote. This will help you to get a better, more compatible plugin in the future."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:65
+msgid "If you skip this, that's okay! Request a quote will still work just fine."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:68
+msgid "Do not allow"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:69
+msgid "Allow"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:76
+msgid "Please confirm your email address below to start receiving emails from us."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:85
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:86
+msgid "Your Profile Overview"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:86
+msgid "Name and email address"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:87
+msgid "Your Site Overview"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:87
+msgid "Site URL, WP version and PHP info"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:88
+msgid "Newsletter"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:88
+msgid "Updates, announcements, marketing, no spam"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:137
+msgid "Hi, I noticed you just crossed the %d %s milestone - that's awesome!"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:139
+msgid "Hi, I just noticed you have been using Request a quote for about a week now - that's awesome!"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:141
+msgid "Give <b>Request a quote</b> a <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> 5 star review <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> to help fellow WordPress users like YOU find it faster! <u>Your 5 star review</u> brings YOU a better FREE product and faster, motivated support when YOU need help."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:142
+msgid "Would you like to upgrade now to get more out of your %s?"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:148
+msgid "Yes, I want a better FREE product and faster support"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:150
+msgid "I already did - Thank you"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:151
+msgid "No, I don't want a better FREE product and faster support"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:152
+msgid "I want to upgrade"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:154
+msgid "Maybe later"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:173
+msgid "Docs"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:174
+msgid "Pro Version"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:194
+msgid "Settings"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:211
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:212
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:213
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:214
+msgid "Cancel"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:215
+msgid "Please share the reason so we can improve"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:216
+msgid "Would you like to open a support ticket?"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:217
+msgid "Please enter your email address."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:220
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:221
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:222
+msgid "The plugin update did not work as expected"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:223
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:224
+#: request-a-quote/includes/plugin-feedback-functions.php:231
+msgid "I found a better plugin"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:226
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:227
+msgid "The plugin is not working"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:228
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:229
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:230
+msgid "The plugin is great, but I need a specific feature that is not currently supported"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:240
+msgid "It's a temporary deactivation. I'm just debugging an issue"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:241
+msgid "Other"
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:242
+msgid "No private information is sent during your submission. Thank you very much for your help improving our plugin."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:262
+msgid "Please share the plugin name."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:266
+msgid "Please share the feature that you were looking for so that we can develop it in the future releases."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:270
+msgid "We are sorry to hear that. Please share your previous version number before update, new updated version number and detailed description of what happened."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:274
+msgid "We are sorry to hear that. Please share the detailed description of what happened."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:278
+msgid "Please share what didn't work so we can fix it in the future releases."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:282
+msgid "Please share what you were looking for."
+msgstr ""
+
+#: request-a-quote/includes/plugin-feedback-functions.php:286
+msgid "Please share what you expected."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:68
+#: request-a-quote/includes/scripts.php:152
+msgid "Please enter a unique value."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:69
+msgid "required"
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:85
+msgid "Taxonomy"
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:98
+#: request-a-quote/includes/scripts.php:103
+msgid "Relationship"
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:136
+msgid "This field is required."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:137
+msgid "Please fix this field."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:138
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:139
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:140
+msgid "Please enter a valid date."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:141
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:142
+msgid "Please enter a valid number."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:143
+msgid "Please enter only digits."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:144
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:145
+msgid "Please enter the same value again."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:146
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:147
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:148
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:149
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:150
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:151
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:178
+msgid "ERROR:"
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:179
+msgid "Invalid file type."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:180
+msgid "File size is greater than allowed limit."
+msgstr ""
+
+#: request-a-quote/includes/scripts.php:181
+msgid "Maximum number of allowable file uploads has been exceeded."
+msgstr ""
+
+#: request-a-quote/layouts/emd-archive.php:33
+msgid "No archive records have been found."
+msgstr ""
+
+#: request-a-quote/layouts/emd-archive.php:53
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: request-a-quote/layouts/emd-archive.php:55
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: request-a-quote/layouts/emd-login.php:4
+msgid "Log into Your Account"
+msgstr ""
+
+#: request-a-quote/layouts/emd-login.php:6
+msgid "Username or Email"
+msgstr ""
+
+#: request-a-quote/layouts/emd-login.php:10
+msgid "Password"
+msgstr ""
+
+#: request-a-quote/layouts/emd-login.php:14
+msgid "Remember Me"
+msgstr ""
+
+#: request-a-quote/layouts/emd-login.php:21
+msgid "Log In"
+msgstr ""
+
+#: request-a-quote/layouts/emd-login.php:26
+msgid "Lost Password?"
+msgstr ""
+
+#: request-a-quote/layouts/emd-login.php:31
+msgid "Register"
+msgstr ""
+
+#: request-a-quote/layouts/emd-register.php:6
+msgid "Username"
+msgstr ""
+
+#: request-a-quote/layouts/emd-register.php:26
+msgid "Confirm Password"
+msgstr ""
+
+#: request-a-quote/layouts/emd-register.php:39
+msgid "Login"
+msgstr ""
+
+#: request-a-quote/layouts/emd-single.php:47
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: request-a-quote/layouts/emd-single.php:48
+msgctxt "Next post link"
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: request-a-quote/layouts/emd-taxonomy.php:34
+msgid "No records have been found matching the term."
+msgstr ""
+
+#: request-a-quote/layouts/single-emd-quote.php:8
+msgid "Last modified"
+msgstr ""
+
+#: request-a-quote/layouts/single-emd-quote.php:8
+msgid "by"
+msgstr ""
+
+#: request-a-quote/layouts/single-emd-quote.php:8
+msgid "ago"
+msgstr ""
+
+#: request-a-quote/layouts/single-emd-quote.php:28
+msgid "Name"
+msgstr ""
+
+#: request-a-quote/layouts/single-emd-quote.php:35
+msgid "Quote Closed"
+msgstr ""
+
+#: request-a-quote/layouts/single-emd-quote.php:70
+msgid "Details"
+msgstr ""
+
+#: request-a-quote/layouts/single-emd-quote.php:166
+msgid "Additional details"
+msgstr ""
+
+#: request-a-quote/request-a-quote.php:78
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: request-a-quote/request-a-quote.php:251
+msgid "Quotes Settings"
+msgstr ""
+
+#: request-a-quote/request-a-quote.php:256
+msgid "Glossary"
+msgstr ""
+
+#: request-a-quote/request-a-quote.php:264
+msgid "Shortcodes"
+msgstr ""
+
+#: request-a-quote/request-a-quote.php:268
+msgid "Plugins"
+msgstr ""
+
+#: request-a-quote/request-a-quote.php:272
+msgid "Support"
+msgstr ""
+
+#: request-a-quote/request-a-quote.php:276
+msgid "Notifications"
+msgstr ""
+
+#: request-a-quote/request-a-quote.php:295
+msgid "Licenses"
+msgstr ""
